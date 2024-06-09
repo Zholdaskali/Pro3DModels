@@ -2,7 +2,7 @@ server:
   port: ${PORT:8080}
 spring:
   datasource:
-    url: jdbc:postgresql://dpg-cpj3dli1hbls73bppbog-a:5432/pro3d_models
+    url: jdbc:postgresql://dpg-cpj3dli1hbls73bppbog-a.singapore-postgres.render.com:5432:5432/pro3d_models
     username: pro3d_models_admin
     password: qy5j7rjEnKKsiK40FnhFGiAVQ7q9lLIE
     driver-class-name: org.postgresql.Driver
